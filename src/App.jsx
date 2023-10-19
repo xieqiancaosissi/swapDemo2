@@ -971,3 +971,7 @@ export function CloseIcon({
     </svg>
   );
 }
+
+export function TestIcon() {
+  return <div></div>
+}
