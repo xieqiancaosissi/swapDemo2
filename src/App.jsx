@@ -994,3 +994,6 @@ export function MyIcon({
 export function TestIcon() {
   return <div></div>
 }
+export function TestIcon2() {
+  return <div>hello2</div>
+}
